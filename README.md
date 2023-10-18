@@ -11,6 +11,11 @@ pw: 1234
 java -jar viceversa.jar
 ```
 
+## viceversa API 호출 방법
+```
+http://localhost:8080/api/books
+```
+
 ## Open API 테이블 생성 및 삽입
 ```sql
 create table book
